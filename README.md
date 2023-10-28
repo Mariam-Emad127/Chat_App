@@ -1,4 +1,5 @@
 # chat_application
+![Screenshot_1698531873](https://github.com/Mariam-Emad127/Chat_App/assets/93050116/80ebbd36-64f1-47e0-a6c6-43c032e925a3)
 
 A new Flutter project.
 
